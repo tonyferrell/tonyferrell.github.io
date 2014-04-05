@@ -95,6 +95,9 @@ disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-49732638-1
+google_analytics_url: tonyferrell.github.io
+google_analytics_enhanced_links: true
+google_analytics_demographics: true
 
 # Facebook Like
 facebook_like: false
